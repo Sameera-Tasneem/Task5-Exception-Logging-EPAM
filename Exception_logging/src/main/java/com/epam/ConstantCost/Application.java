@@ -8,7 +8,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.Scanner;
 
-public class App
+public class Application
 {
 
    private static final org.apache.logging.log4j.Logger Logger = LogManager.getLogger(com.epam.Exception_logging.App.class);
