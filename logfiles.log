@@ -1,0 +1,21 @@
+26-02-20 23:01:40 INFO  Application:23 - Choose from type of materials
+26-02-20 23:05:20 INFO  Application:35 - Chose the Material Type
+26-02-20 23:06:23 INFO  Application:54 - Enter the area
+26-02-20 23:07:20 INFO  Application:24 - Enter Principle Amount
+26-02-20 23:10:24 INFO  Application:28 - Rate of Interest
+26-02-20 23:10:30 INFO  Application:32 - Time Period
+26-02-20 23:11:00 INFO	SimpleInterets:40 -Calculating Simple interest
+26-02-20 23:11:01 INFO	SimpleInterets:42 -Calculating Compund interest
+26-02-20 23:11:12 INFO  SimpleInterest:28 - Returning SimpleInterest
+26-02-20 23:11:20 INFO  SimpleInterest:36 - Returning CompoundInterest
+26-02-20 23:11:45 INFO	TypeOfMaterials:4 -
+1.standard
+2.mediumStandard
+3.highStandard
+26-02-20 23:12:00 INFO	Application:39 -Returning material
+26-02-20 23:12:00 ERROR	Application:83 -Selecting InvalidMaterialSelect
+26-02-20 23:12:10 INFO	Application:75 -Returning Interest
+
+
+
+
